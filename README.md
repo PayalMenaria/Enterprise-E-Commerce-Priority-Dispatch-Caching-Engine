@@ -60,5 +60,4 @@ A lightweight, high-performance Java Backend Microservice designed to solve orde
 ### Execution Steps
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/PayalMenaria/ecommerce-priority-engine.git](https://github.com/PayalMenaria/ecommerce-priority-engine.git)
-   cd ecommerce-priority-engine
+  
